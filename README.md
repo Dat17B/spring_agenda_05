@@ -1,8 +1,8 @@
-# #7 CRUD with Controller, View and Model (MVC)
+# #5 CRUD with Controller, View and Model (MVC)
 
 Today we continue with what we did last time
 
-* [#6 CRUD with Controller, View and Model (MVC)](https://github.com/StudentsAdministration/06_agenda/blob/master/README.md)
+* [#4 CRUD with Controller, View and Model (MVC)](httpshttps://github.com/Dat17B/spring_agenda_05/blob/master/README.md)
 
 ## More specific
 
